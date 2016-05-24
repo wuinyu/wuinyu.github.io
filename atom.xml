@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://smilingsome.com/"/>
-  <updated>2016-05-18T12:21:31.976Z</updated>
+  <updated>2016-05-24T14:06:11.181Z</updated>
   <id>http://smilingsome.com/</id>
   
   <author>
@@ -16,26 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://smilingsome.com/2016/05/18/hello-world/"/>
-    <id>http://smilingsome.com/2016/05/18/hello-world/</id>
-    <published>2016-05-18T12:21:31.976Z</published>
-    <updated>2016-05-18T12:21:31.976Z</updated>
+    <title>smilingsome</title>
+    <link href="http://smilingsome.com/2016/05/24/smilingsome/"/>
+    <id>http://smilingsome.com/2016/05/24/smilingsome/</id>
+    <published>2016-05-24T14:05:45.000Z</published>
+    <updated>2016-05-24T14:06:11.181Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html">&lt;pre&gt;&lt;code&gt;本网站: 采用hexo静态博客生成程序制作，部署于github中
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;静态博客&quot;&gt;&lt;a href=&quot;#静态博客&quot; class=&quot;headerlink&quot; title=&quot;静态博客&quot;&gt;&lt;/a&gt;静态博客&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;传统的博客网站搭建方法：如wordpress开源工具，带数据库，页面编辑器，后台管理等等功能
+静态博客：使用比html更轻量级的标记语言markdown，通过静态博客生成程序[如: hexo等]生成博客页面
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;写作初衷&quot;&gt;&lt;a href=&quot;#写作初衷&quot; class=&quot;headerlink&quot; title=&quot;写作初衷&quot;&gt;&lt;/a&gt;写作初衷&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;劝自己少花点时间打游戏，多点时间看看书，打打字，敲敲代码
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;关于smilingsome-吾即是语&quot;&gt;&lt;a href=&quot;#关于smilingsome-吾即是语&quot; class=&quot;headerlink&quot; title=&quot;关于smilingsome[吾即是语]&quot;&gt;&lt;/a&gt;关于smilingsome[吾即是语]&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;给微信号取名的时候脑子进水了取得一个名字，没什么特殊含义
+我的中文笔名： 吾即是语(是不是还不错啊)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;本站内容&quot;&gt;&lt;a href=&quot;#本站内容&quot; class=&quot;headerlink&quot; title=&quot;本站内容&quot;&gt;&lt;/a&gt;本站内容&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;本software engineer(菜逼)的技术文章
+本software enginer的技术学习心得(鸡汤)
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;推荐&quot;&gt;&lt;a href=&quot;#推荐&quot; class=&quot;headerlink&quot; title=&quot;推荐&quot;&gt;&lt;/a&gt;推荐&lt;/h3&gt;</content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;pre&gt;&lt;code&gt;本网站: 采用hexo静态博客生成程序制作，部署于github中
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;静态博客&quot;&gt;&lt;a href=&quot;#静态博客&quot; class=&quot;headerlink&quot; title=&quot;静态博客&quot;&gt;&lt;/a&gt;静态博客&lt;/h3&gt;&lt;pre&gt;&lt;co
     
     </summary>
     
